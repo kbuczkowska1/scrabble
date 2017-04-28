@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- background Layout -->
+    <color name="color_background_layout">#FF0D4532</color>
+    <!-- text color scrabble -->
+    <color name="color_text_scrabble">#FF0D4532</color>
+    <!-- text color  -->
+    <color name="color_text_player">#616161</color>
+    <!-- text color result -->
+    <color name="color_text_result">#000000</color>
+    <!-- background color scrabble -->
+    <color name="color_background_scrabble">#debd93</color>
+    <!-- background color view -->
+    <color name="color_background_view">#fc288e6b</color>
+    <!-- text color button -->
+    <color name="color_text_button">#000000</color>
+    <!-- edit text color  -->
+    <color name="color_text_edit">#000000</color>
+</resources>
+
+

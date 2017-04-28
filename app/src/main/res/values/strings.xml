@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">projekt2.2</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player3">Player 3</string>
+    <string name="player4">Player 4</string>
+    <string name="add">ADD</string>
+    <string name="reset">RESET</string>
+    <string name="result">0</string>
+    <string name="edit_text"></string>
+    <string name="s1">S1</string>
+    <string name="c3">C3</string>
+    <string name="r1">R1</string>
+    <string name="a1">A1</string>
+    <string name="b3">B3</string>
+    <string name="b3_2">B3</string>
+    <string name="l1">L1</string>
+    <string name="e1">E1</string>
+
+</resources>
